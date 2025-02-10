@@ -32,8 +32,9 @@ Clone este repositório para o seu servidor Ubuntu:
 apt update && apt install git -y && git clone https://github.com/neodesk-informatica/Script-UptimeKuma.git
 ```
 
-```bash
+
 ### 2. Tornando o Script Executável
+```bash
 cd Script-UptimeKuma && chmod +x install-uptimekuma.sh
 ```
 
